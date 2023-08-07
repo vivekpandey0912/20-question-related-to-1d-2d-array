@@ -1,4 +1,4 @@
-Sure, I can provide you with 20 Java programs for both 1D and 2D arrays that can be useful for interview preparation. Here they are:
+
 
 **1D Array Programs:**
 
